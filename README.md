@@ -14,4 +14,7 @@ I am Gülnisa Yıldırım. Currently, I am studying at Koç University, Departme
 ⚡ “When to use iterative development? You should use iterative development only on projects that you want to succeed.” - Martin Fowler
 
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Glnisa&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Glnisa&show_icons=true&theme=radical)
+
 
