@@ -11,7 +11,7 @@ I am Gülnisa Yıldırım. Currently, I am studying at Koç University, Departme
 
 📫 How to reach me: gyildirim20@ku.edu.tr
 
-⚡ “When to use iterative development? You should use iterative development only on projects that you want to succeed.” -Martin Fowler
+⚡ “When to use iterative development? You should use iterative development only on projects that you want to succeed.” - Martin Fowler
 
 
 
