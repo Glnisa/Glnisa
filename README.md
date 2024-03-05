@@ -7,7 +7,7 @@ I am Gülnisa Yıldırım. Currently, I am studying at Koç University, Departme
 
 🔭 I’m currently working on project called Virtual Classroom.
 
-💬 Ask me about Java, Python, C, Interpreter Design, Data Structures, Database Management Systems and Operating Systems.
+💬 Ask me about Java, Python, C, Interpreter Design, Data Structures,Devops,Database Management Systems and Operating Systems.
 
 📫 How to reach me: gyildirim20@ku.edu.tr
 
