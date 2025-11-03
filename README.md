@@ -1,6 +1,6 @@
 ### Hello  👋
 
-I am Gülnisa Yıldırım. Currently, I am studying at Koç University, Department of Computer Engineering.
+I am Gülnisa Yıldırım. Currently, I am working at Vodafone as Cyber Security Defence Discover.
 
 
 
